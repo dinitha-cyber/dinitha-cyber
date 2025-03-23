@@ -16,7 +16,7 @@
 - 📫 How to reach me **dinithavalo1@gmail.com**
 
 - ⚡ Fun fact **Why did the hacker go to the doctor? Because he had a virus!**
-
+<p Linkedin href=www.linkedin.com/in/dinitha123</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/dinitha123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dinithacyber" height="30" width="40" /></a>
