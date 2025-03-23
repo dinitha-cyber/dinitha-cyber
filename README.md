@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 📝 I regularly write articles on [https://www.linkedin.com](https://www.linkedin.com)
+- 📝 I regularly write articles on [https://www.linkedin.com](https://www.linkedin.com/in/dinitha123)
 
 - 📫 How to reach me **dinithavalo1@gmail.com**
 
